@@ -11,6 +11,7 @@ Current progress....
 -LED being moved was given a new part but reuses the mask and diffuser from the main repo
 
 Future improvements intended.....
+-BETTER ORGINAZTION HERE LOL!
 -STEP files for LED front and future nameplate spot for easier custom parts for the faceplate.
 -Nozzle cam support (really looking forward to this one)
 -A reduced Y sapce faceplate to makeup for TAP offset (however finding this may require modified hotend part or watercooling)
